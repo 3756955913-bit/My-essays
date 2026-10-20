@@ -9,7 +9,7 @@ Document archiving and storage
 
 ## [A Gazetteer of Dongguan]
 
-### [A Gazetteer of Dongguan]（https://github.com/3756955913-bit/My-essays/blob/main/A%20Gazetteer%20of%20Dongguan/A%20Gazetteer%20of%20Dongguan）
+### [A Gazetteer of Dongguan](https://github.com/3756955913-bit/My-essays/blob/main/A%20Gazetteer%20of%20Dongguan/A%20Gazetteer%20of%20Dongguan)
 
 ### [东莞风物志](https://github.com/3756955913-bit/My-essays/blob/main/A%20Gazetteer%20of%20Dongguan/%E4%B8%9C%E8%8E%9E%E9%A3%8E%E7%89%A9%E5%BF%97)
 
